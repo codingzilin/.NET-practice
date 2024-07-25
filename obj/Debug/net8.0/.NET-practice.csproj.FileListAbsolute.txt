@@ -1,0 +1,8 @@
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.AssemblyInfo.cs
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.sourcelink.json

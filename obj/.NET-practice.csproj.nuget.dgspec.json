@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "/Users/harrysong/Desktop/Side projects/Ben Todo app/.NET-practice/.NET-practice.csproj": {}
+    "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj": {}
   },
   "projects": {
-    "/Users/harrysong/Desktop/Side projects/Ben Todo app/.NET-practice/.NET-practice.csproj": {
+    "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/harrysong/Desktop/Side projects/Ben Todo app/.NET-practice/.NET-practice.csproj",
+        "projectUniqueName": "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj",
         "projectName": ".NET-practice",
-        "projectPath": "/Users/harrysong/Desktop/Side projects/Ben Todo app/.NET-practice/.NET-practice.csproj",
-        "packagesPath": "/Users/harrysong/.nuget/packages/",
-        "outputPath": "/Users/harrysong/Desktop/Side projects/Ben Todo app/.NET-practice/obj/",
+        "projectPath": "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj",
+        "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/harrysong/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
