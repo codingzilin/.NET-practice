@@ -1,8 +1,80 @@
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.csproj.AssemblyReference.cache
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.AssemblyInfoInputs.cache
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.AssemblyInfo.cs
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.csproj.CoreCompileInputs.cache
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\harry\Desktop\Development\dotnet-practice\obj\Debug\net8.0\.NET-practice.sourcelink.json
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.csproj.AssemblyReference.cache
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.AssemblyInfoInputs.cache
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.AssemblyInfo.cs
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.csproj.CoreCompileInputs.cache
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/harry/Desktop/Development/dotnet-practice/obj/Debug/net8.0/.NET-practice.sourcelink.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.csproj.AssemblyReference.cache
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.AssemblyInfoInputs.cache
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.AssemblyInfo.cs
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.csproj.CoreCompileInputs.cache
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.MvcApplicationPartsAssemblyInfo.cs
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.MvcApplicationPartsAssemblyInfo.cache
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.sourcelink.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/appsettings.Development.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/appsettings.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/.NET-practice
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/.NET-practice.deps.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/.NET-practice.runtimeconfig.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/.NET-practice.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/.NET-practice.pdb
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Azure.Core.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Azure.Identity.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/staticwebassets.build.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/staticwebassets.development.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/staticwebassets/msbuild..NET-practice.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/staticwebassets/msbuild.build..NET-practice.props
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting..NET-practice.props
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive..NET-practice.props
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/scopedcss/bundle/.NET-practice.styles.css
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-pra.E1C0E02B.Up2Date
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/refint/.NET-practice.dll
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.pdb
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/.NET-practice.genruntimeconfig.cache
+/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/Debug/net8.0/ref/.NET-practice.dll

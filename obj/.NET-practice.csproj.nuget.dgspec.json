@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj": {}
+    "/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/.NET-practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj": {
+    "/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/.NET-practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj",
+        "projectUniqueName": "/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/.NET-practice.csproj",
         "projectName": ".NET-practice",
-        "projectPath": "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\.NET-practice.csproj",
-        "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harry\\Desktop\\Development\\dotnet-practice\\obj\\",
+        "projectPath": "/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/.NET-practice.csproj",
+        "packagesPath": "/Users/harrysong/.nuget/packages/",
+        "outputPath": "/Users/harrysong/Desktop/Side projects/Ben Todo app/dotnet-practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/harrysong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +47,14 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -74,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

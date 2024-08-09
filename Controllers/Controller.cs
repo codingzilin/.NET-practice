@@ -12,17 +12,17 @@ namespace dotnet_practice.Controllers
     [ApiController]
     public class TaskController : ControllerBase
     {
-        private readonly TodoService _todoService;
-        public TaskController(TodoService todoService)
+        // private readonly TodoService _todoService;
+        public TaskController()
         {
-            _todoService = todoService;
+            // _todoService = todoService;
         }
 
         [HttpGet]
         public IActionResult GetTodoItems()
         {
-            var todoItems = _todoService.GetTodoItems();
-            return Ok(todoItems);
+            // var todoItems = _todoService.GetTodoItems();
+            return Ok("Hello World");
         }
 
         

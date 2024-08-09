@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using dotnet_practice.Entities;
 
-namespace Data
+namespace dotnet_practice.Data
 {
     public class DataContext : DbContext
     {
@@ -9,3 +9,4 @@ namespace Data
 
         public DbSet<TaskDTO> Tasks { get; set; }
     }
+}
